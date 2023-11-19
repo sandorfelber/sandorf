@@ -1,5 +1,5 @@
-# Minimal Portfolio HTML Template
+# Hi
 
-An HTML Template for a minimal portfolio. Made with Bootstrap and modernizr.js for great compatibility.
+This is Sandor.
 
-Forked from https://github.com/matteotagliatti/minimal-portfolio-html-template.
+
